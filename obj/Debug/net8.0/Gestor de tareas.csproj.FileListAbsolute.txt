@@ -1,0 +1,14 @@
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\Gestor de tareas\bin\Debug\net8.0\Gestor de tareas.exe
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\Gestor de tareas\bin\Debug\net8.0\Gestor de tareas.deps.json
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\Gestor de tareas\bin\Debug\net8.0\Gestor de tareas.runtimeconfig.json
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\Gestor de tareas\bin\Debug\net8.0\Gestor de tareas.dll
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\Gestor de tareas\bin\Debug\net8.0\Gestor de tareas.pdb
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\Gestor de tareas\obj\Debug\net8.0\Gestor de tareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\Gestor de tareas\obj\Debug\net8.0\Gestor de tareas.AssemblyInfoInputs.cache
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\Gestor de tareas\obj\Debug\net8.0\Gestor de tareas.AssemblyInfo.cs
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\Gestor de tareas\obj\Debug\net8.0\Gestor de tareas.csproj.CoreCompileInputs.cache
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\Gestor de tareas\obj\Debug\net8.0\Gestor de tareas.dll
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\Gestor de tareas\obj\Debug\net8.0\refint\Gestor de tareas.dll
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\Gestor de tareas\obj\Debug\net8.0\Gestor de tareas.pdb
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\Gestor de tareas\obj\Debug\net8.0\Gestor de tareas.genruntimeconfig.cache
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\Gestor de tareas\obj\Debug\net8.0\ref\Gestor de tareas.dll
